@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>Vancouver, BC, Canada<br/> February 2022"
+excerpt: "<br/>Vancouver, BC, Canada<br/> February, 2022"
 ---
 
 <h2>Introduction</h2>

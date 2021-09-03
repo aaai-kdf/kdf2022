@@ -8,7 +8,7 @@ header:
 excerpt: "<br/>KDF Organizing Committee<br/>"
 ---
 <h3>Xiaomo Liu</h3>
-<strong>Director of Data Science, S&P Global Ratings</strong><br>
+<strong>Research Lead, J.P. Morgan AI Research</strong><br>
 Dr. Liu is an AI Research Lead at JP Morgan AI Research focusing on machine learning and natural language processing to improve the productivity in financial services. Prior to JP Morgan, Xiaomo was a Director of Data Science at S\&P Global and a senior research scientist at Thomson Reuters, where he invented AI algorithms and systems to help news and legal professionals to automate their workflow. His work has been reported by numerous news media and won industry awards. Xiaomo holds a PhD in computer science from Virginia Tech and published more than 30 peer reviewed papers and 3 US patents. Xiaomo has serviced as PCs in various conferences like KDD, IJCAI, CIKM, IWSC etc. He also organized two AAAI workshops.
 
 <h3>Sameena Shah</h3>
