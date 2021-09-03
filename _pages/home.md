@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>February, 2022, Vancouver, BC, Canada<br/>"
+excerpt: "<br/>Vancouver, BC, Canada<br/> Feburary 2022"
 ---
 
 <h2>Introduction</h2>
@@ -60,4 +60,4 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
 </center>
 
 <h2 id='contact'>Contact Information</h2>
-We look forward to seeing you in KDF 2021! For general inquiries about KDF, please write to <kbd>inquiry.kdf2022@easychair.org</kbd>.
+We look forward to seeing you in KDF 2022! For general inquiries about KDF, please write to <kbd>inquiry.kdf2022@easychair.org</kbd>.
