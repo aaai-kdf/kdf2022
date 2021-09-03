@@ -1,5 +1,5 @@
 ---
-title: "The AAAI-21 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
+title: "The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: splash
 permalink: /program_committee
 header:
@@ -30,5 +30,4 @@ Tuka Alhanai (New York University, United Arab Emirates)<br>
 Wei Wang (Microsoft Research, USA)<br>
 Xin Dong (Rutgers University, USA)<br> 
 Zehra Sura (Bloomberg, USA)<br>
-Zhiqiang Ma (S&P Global, USA)<br>
 
