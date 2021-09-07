@@ -31,29 +31,29 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
         <tr>
             <td style="width: 40%;">Abstract Submission (optional)</td>
             <td style="width: 30%;">Monday</td>
-            <td>Nov 2, 2021</td>
+            <td>Nov 5, 2021</td>
         </tr>
         <tr>
             <td>Paper Submission Deadline (Extended)</td>
             <td>Friday</td>
-            <td>Nov 13, 2021
+            <td>Nov 12, 2021
             </td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
             <td>Friday</td>
-            <td>Nov 30, 2021<br>
+            <td>Dec 6, 2021<br>
             </td>
         </tr>   
         <tr>
             <td>AAAI-21 Early Registration Deadline</td>
-            <td>Friday</td>
-            <td>Jan 15, 2022</td>
+            <td>TBD</td>
+            <td>TBD</td>
         </tr>             
         <tr>
             <td>Workshop</td>
-            <td>Tuesday</td>
-            <td>Feb 9, 2022</td>
+            <td>TBD</td>
+            <td>TBD</td>
         </tr>   
     </tbody>
 </table>
