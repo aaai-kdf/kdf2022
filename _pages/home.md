@@ -34,7 +34,7 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
             <td>Nov 5, 2021</td>
         </tr>
         <tr>
-            <td>Paper Submission Deadline (Extended)</td>
+            <td>Paper Submission Deadline</td>
             <td>Friday</td>
             <td>Nov 12, 2021
             </td>
