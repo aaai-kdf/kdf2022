@@ -46,7 +46,7 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
             </td>
         </tr>   
         <tr>
-            <td>AAAI-21 Early Registration Deadline</td>
+            <td>AAAI-22 Early Registration Deadline</td>
             <td>TBD</td>
             <td>TBD</td>
         </tr>             
