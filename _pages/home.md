@@ -30,7 +30,7 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
     <tbody>
         <tr>
             <td style="width: 40%;">Abstract Submission (optional)</td>
-            <td style="width: 30%;">Monday</td>
+            <td style="width: 30%;">Friday</td>
             <td>Nov 5, 2021</td>
         </tr>
         <tr>
