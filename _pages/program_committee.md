@@ -8,6 +8,7 @@ header:
 excerpt: "<br/>Program Committee<br/>"
 ---
 Anh Truong (Capital One, USA)<br>
+<!-- 
 Anthony Liu (Kensho, USA)<br>
 Chen Li (Moody's, USA)<br>
 Chong Wang (S&P Global, USA)<br>
@@ -30,4 +31,5 @@ Tuka Alhanai (New York University, United Arab Emirates)<br>
 Wei Wang (Microsoft Research, USA)<br>
 Xin Dong (Rutgers University, USA)<br> 
 Zehra Sura (Bloomberg, USA)<br>
+-->
 
