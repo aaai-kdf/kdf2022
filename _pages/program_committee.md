@@ -7,18 +7,18 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Program Committee<br/>"
 ---
-Akshat Gupta (J.P. Morgan Chase AI Research)<br>
+Akshat Gupta (J.P. Morgan Chase AI Research, USA)<br>
 Anh Truong (Capital One, USA)<br>
-Chen Li (Verantos)<br>
-Charese	Smiley (J.P. Morgan Chase AI Research)<br>
+Chen Li (Verantos, USA)<br>
+Charese	Smiley (J.P. Morgan Chase AI Research, USA)<br>
 Hongda Shen (University of Alabama in Huntsville, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
 Mohammad M. Ghassemi (Michigan State University, USA)<br>
-Petr Babkin (J.P. Morgan Chase AI Research)<br>
+Petr Babkin (J.P. Morgan Chase AI Research, USA)<br>
 Qian Yang (Duke University, USA)<br>
 Sumanta Basu (Cornell University, USA)<br>
 Tuka Alhanai (New York University, United Arab Emirates)<br>
-Yanci Zhang (University of Pennsylvania)<br>
+Yanci Zhang (University of Pennsylvania, USA)<br>
 Zehra Sura (Bloomberg, USA)<br>
 <!-- 
 Anthony Liu (Kensho, USA)<br>
