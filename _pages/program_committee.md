@@ -7,29 +7,33 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Program Committee<br/>"
 ---
+Akshat Gupta (J.P. Morgan Chase AI Research)<br>
 Anh Truong (Capital One, USA)<br>
+Chen Li (Verantos)<br>
+Charese	Smiley (J.P. Morgan Chase AI Research)<br>
+Hongda Shen (University of Alabama in Huntsville, USA)<br>
+Gianluca Demartini (University of Queensland, Australia)<br>
+Mohammad M. Ghassemi (Michigan State University, USA)<br>
+Petr Babkin (J.P. Morgan Chase AI Research)<br>
+Qian Yang (Duke University, USA)<br>
+Sumanta Basu (Cornell University, USA)<br>
+Tuka Alhanai (New York University, United Arab Emirates)<br>
+Yanci Zhang (University of Pennsylvania)<br>
+Zehra Sura (Bloomberg, USA)<br>
 <!-- 
 Anthony Liu (Kensho, USA)<br>
-Chen Li (Moody's, USA)<br>
 Chong Wang (S&P Global, USA)<br>
 Dezhao Song (Thomson Reuters, USA)<br>
 Eren Kurshan (Bank of America, USA)<br>
-Gianluca Demartini (University of Queensland, Australia)<br>
 Grace Bang (Bloomberg, USA)<br>
 Gülşen Eryiğit (Istanbul Technical University, Turkey)<br>
-Hongda Shen (University of Alabama in Huntsville, USA)<br>
 Joshua Lockhart (JP Morgan, UK)<br>
 Kornelia Papp (iptiQ by Swiss Re, Switzerland)<br>
 Luciano Del Corro (Goldman Sachs, Germany)<br>
-Mohammad M. Ghassemi (Michigan State University, USA)<br>
 Natraj Raman (J.P. Morgan, UK)<br>
-Qian Yang (Duke University, USA)<br>
 Robert Tillman (J.P. Morgan, USA)<br>
 Rui Dai (University of Pennsylvania, USA)<br>
-Sumanta Basu (Cornell University, USA)<br>
-Tuka Alhanai (New York University, United Arab Emirates)<br>
 Wei Wang (Microsoft Research, USA)<br>
 Xin Dong (Rutgers University, USA)<br> 
-Zehra Sura (Bloomberg, USA)<br>
 -->
 
