@@ -18,6 +18,7 @@ Petr Babkin (J.P. Morgan Chase AI Research, USA)<br>
 Qian Yang (Duke University, USA)<br>
 Sumanta Basu (Cornell University, USA)<br>
 Tuka Alhanai (New York University, United Arab Emirates)<br>
+Vineeth Ravi (J.P. Morgan Chase AI Research, USA)<br>
 Yanci Zhang (University of Pennsylvania, USA)<br>
 Zehra Sura (Bloomberg, USA)<br>
 <!-- 
