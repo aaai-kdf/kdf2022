@@ -7,7 +7,24 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Program Committee<br/>"
 ---
+Akshat Gupta (JPMorgan Chase, USA)<br>
 Anh Truong (Capital One, USA)<br>
+Charese Smiley (JPMorgan Chase, USA)<br>
+Chen Li (Verantos Inc, USA)<br>
+Gianluca Demartini (University of Queensland, Australia)<br>
+Hongda Shen (Interos Inc, USA)<br>
+Mohammad M. Ghassemi (Michigan State University, USA)<br>
+Natraj Raman (JPMorgan Chase, UK)<br>
+Niccolo Dalmasso (JPMorgan Chase, USA)<br>
+Petr Babkin (JPMorgan Chase, USA)<br>
+Qian Yang (Duke University, USA)<br>
+Sumanta Basu (Cornell University, USA)<br>
+Tuka Alhanai (New York University, UAE)<br>
+Yanci Zhang (University of Pennsylvania, USA)<br>
+Vineeth Ravi (JPMorgan Chase, USA)<br>
+Zehra Sura (Bloomberg, USA)<br>
+
+
 <!-- 
 Anthony Liu (Kensho, USA)<br>
 Chen Li (Moody's, USA)<br>
