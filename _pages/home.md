@@ -30,20 +30,20 @@ For registration, please use the [AAAI-22 registration website](https://aaai.org
     <tbody>
         <tr>
             <td style="width: 40%;">Abstract Submission (optional)</td>
-            <td style="width: 30%;">Friday</td>
-            <td>Nov 5, 2021</td>
+            <td style="width: 30%;"><s>Friday</s></td>
+            <td><s>Nov 5, 2021</s></td>
         </tr>
         <tr>
             <td>Paper Submission Deadline</td>
             <td>Saturday</td>
             <td><s>Nov 12, 2021</s><br>
-                Nov 20, 2021
+                <s>Nov 20, 2021</s>
             </td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
-            <td>Friday</td>
-            <td><s>Dec 6, 2021<s><br>
+            <td><s>Friday</s></td>
+            <td><s>Dec 6, 2021</s><br>
             </td>
         </tr>   
         <tr>
