@@ -13,12 +13,10 @@ Charese Smiley (JPMorgan Chase, USA)<br>
 Chen Li (Verantos Inc, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
 Hongda Shen (Interos Inc, USA)<br>
-Luciano Del Corro (Microsoft Research, Germany)<br>
-Mohammad M. Ghassemi (Michigan State University, USA)<br>
+Liao Zhu (Two Sigma, USA)<br>
 Natraj Raman (JPMorgan Chase, UK)<br>
 Niccolo Dalmasso (JPMorgan Chase, USA)<br>
 Petr Babkin (JPMorgan Chase, USA)<br>
-Qian Yang (Duke University, USA)<br>
 Sumanta Basu (Cornell University, USA)<br>
 Tuka Alhanai (New York University, UAE)<br>
 Yanci Zhang (University of Pennsylvania, USA)<br>

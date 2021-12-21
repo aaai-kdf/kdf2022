@@ -19,10 +19,10 @@ Furthermore, based on the reflections and feedbacks from our 2020 and 2021 AAAI 
 
 This workshop will focus on research into the use of AI techniques to extract knowledge from unstructured data in financial services. The program of the workshop will include invited talks, and spotlight paper presentations, to showcase research opportunities, novel solutions and systems, success stories, and future directions. We cordially welcome researchers, practitioners, and students from academic and industrial communities who are interested in the topics to participate and/or submit their original work. The topics and submission requirements can be found in [call for papers](/kdf2022/call_for_papers).
 
-<!--<h2>Registration</h2>
+<h2>Registration</h2>
 
-For registration, please use the [AAAI-21 registration website](https://aaai.org/Conferences/AAAI-21/registration/).
--->
+For registration, please use the [AAAI-22 registration website](https://aaai.org/Conferences/AAAI-22/registration/).
+
 
 <h2 id="dates">Important Dates (Anywhere on Earth)</h2>
 <center>
@@ -43,13 +43,13 @@ For registration, please use the [AAAI-21 registration website](https://aaai.org
         <tr>
             <td>Notification of Acceptance</td>
             <td>Friday</td>
-            <td>Dec 6, 2021<br>
+            <td><s>Dec 6, 2021<s><br>
             </td>
         </tr>   
         <tr>
             <td>AAAI-22 Early Registration Deadline</td>
-            <td>TBD</td>
-            <td>TBD</td>
+            <td>Friday </td>
+            <td>Dec 31, 2021</td>
         </tr>             
         <tr>
             <td>Workshop</td>
