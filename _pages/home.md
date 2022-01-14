@@ -48,8 +48,8 @@ For registration, please use the [AAAI-22 registration website](https://aaai.org
         </tr>   
         <tr>
             <td>AAAI-22 Early Registration Deadline</td>
-            <td>Friday </td>
-            <td>Dec 31, 2021</td>
+            <td><s>Friday</s> </td>
+            <td><s>Dec 31, 2021</s></td>
         </tr>             
         <tr>
             <td>Workshop</td>
