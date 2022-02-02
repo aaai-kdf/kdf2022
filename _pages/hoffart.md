@@ -1,12 +1,12 @@
 ---
 title: "The AAAI-21 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: single
-permalink: /hoffart
+permalink: /Anju
 classes: wide
 sidebar:
- - title    : "Johannes Hoffart"
-   image    : /assets/images/hoffart.jpg
-   text     : "Senior Research Scientist, R&D AI, Goldman Sachs"
+ - title    : "Anju "
+   image    : /assets/images/anuj.jpg
+   text     : "Head of AI Engineering, Bloomberg"
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
