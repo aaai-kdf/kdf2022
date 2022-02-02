@@ -4,9 +4,9 @@ layout: single
 permalink: /gideon
 classes: wide
 sidebar:
- - title    : "Gideon Mann"
-   image    : /assets/images/gideon.jpg
-   text     : "Head of Data Science, Office of the CTO, Bloomberg"
+ - title    : "William Wang"
+   image    : /assets/images/william.png
+   text     : "Associate Professor, UC Santa Barbara"
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'

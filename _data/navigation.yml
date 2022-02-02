@@ -7,7 +7,7 @@ main:
   #- title: "Accepted Papers"
   #  url: accepted_papers
   - title: "Schedule"
-   url: schedule
+    url: schedule
   - title: "Organization"
     url: organizers
   - title: "Program Committee"
