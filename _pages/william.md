@@ -1,7 +1,7 @@
 ---
 title: "The AAAI-21 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: single
-permalink: /gideon
+permalink: /william
 classes: wide
 sidebar:
  - title    : "William Wang"
