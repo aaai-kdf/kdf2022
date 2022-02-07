@@ -61,7 +61,7 @@ excerpt: "<br/>Schedule<br/>"
     <tr>
         <td markdown="span">9:55am-10:05am</td>
         <td markdown="span">[Multi-modal Attention Network for Stock Movements Prediction](assets/pdfs/KDF_22_paper_3.pdf)</td>
-        <td markdown="span">[Shuai He]<br/>(The University of Electronic Science and Technology of China)</td>
+        <td markdown="span">Shuai He<br/>(The University of Electronic Science and Technology of China)</td>
         <td markdown="span"></td>
     </tr> 
     <tr >
