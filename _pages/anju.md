@@ -4,7 +4,7 @@ layout: single
 permalink: /anju
 classes: wide
 sidebar:
- - title    : "Prabhanjan (Anju) Kambadur "
+ - title    : "Prabhanjan (Anju) Kambadur"
    image    : /assets/images/anju.jpg
    text     : "Head of AI Engineering, Bloomberg LP"
 header:

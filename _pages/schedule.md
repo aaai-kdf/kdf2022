@@ -73,7 +73,7 @@ excerpt: "<br/>Schedule<br/>"
     <tr>
         <td markdown="span">10:15am-10:50am</td>
         <td markdown="span">[Keynote: TBD](/kdf2022/anju#keynote)</td>
-        <td markdown="span">[Anju Kambadur](/kdf2022/anju)<br/>(Bloomberg)</td>
+        <td markdown="span">[Xiaodan Zhu](/kdf2022/xiaodan)<br/>(Queen's University)</td>
         <td markdown="span">&nbsp;</td>
     </tr> 
     <tr bgcolor="#f7f1df">
@@ -103,7 +103,7 @@ excerpt: "<br/>Schedule<br/>"
     <tr>
         <td markdown="span">11:40am-12:15pm</td>
         <td markdown="span">[Keynote: ](/kdf2022/Xiaodan)</td>
-        <td markdown="span">[Xiaodan Zhu](/kdf2022/Xiaodan)<br/>(Assistant Professor, Queen's University)</td>
+        <td markdown="span">[Anju Kambadur](/kdf2022/anju)<br/>(Bloomberg LP)</td>
         <td markdown="span"></td>
     </tr>  
     <tr>
