@@ -12,8 +12,9 @@ excerpt: "<br/>Schedule<br/>"
 
 <h2>Keynote Speakers</h2>
 [**William Wang**](/kdf2022/william), Associate Professor, University of California, Santa Barbara<br>
-[**Xiaodan Zhu**](/kdf2022/xiaodan), Assistant Professor, Queen's University<br>
 [**Anju Kambadur**](/kdf2022/anju), Head of AI Engineering, Bloomberg LP<br>
+[**Xiaodan Zhu**](/kdf2022/xiaodan), Assistant Professor, Queen's University<br>
+
 
 <h2>Presentation Schedule</h2>
 *All timestamps reflect Pacific Time Zone (PST).*
