@@ -68,7 +68,7 @@ excerpt: "<br/>Schedule<br/>"
     <tr >
         <td markdown="span">10:05am-10:15am</td>
         <td markdown="span">[One Shock, Many Disruptions: Firm Experience After India’s Demonetization](assets/pdfs/KDF_22_paper_5.pdf)</td>
-        <td markdown="span">Manisha Goel<br/>(Pomona College)</td>
+        <td markdown="span">Alexandra Schofield<br/>(Harvey Mudd College)</td>
         <td markdown="span">&nbsp;</td>
     </tr> 
     <tr>
