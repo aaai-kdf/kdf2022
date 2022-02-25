@@ -49,10 +49,10 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">9:35am-9:45am</td>
-        <td markdown="span">[Learning to Select the Next Reasonable Mention for Entity Linking](assets/pdfs/KDF_22_paper_8.pdf)</td>
-        <td markdown="span">Jian Sun<br/>(University of Chinese Academy of Sciences)</td>
+        <td markdown="span">[Multi-modal Attention Network for Stock Movements Prediction](assets/pdfs/KDF_22_paper_3.pdf)</td>
+        <td markdown="span">Shuai He<br/>(The University of Electronic Science and Technology of China)</td>
         <td markdown="span"></td>
-    </tr>   
+    </tr>
     <tr>
         <td markdown="span">9:45am-9:55am</td>
         <td markdown="span">[GUID: A Knowledge Graph and Attention based User Interest Diffusion Process for Recommendation](assets/pdfs/KDF_22_paper_7.pdf)</td>
@@ -61,10 +61,10 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">9:55am-10:05am</td>
-        <td markdown="span">[Multi-modal Attention Network for Stock Movements Prediction](assets/pdfs/KDF_22_paper_3.pdf)</td>
-        <td markdown="span">Shuai He<br/>(The University of Electronic Science and Technology of China)</td>
+        <td markdown="span">[Learning to Select the Next Reasonable Mention for Entity Linking](assets/pdfs/KDF_22_paper_8.pdf)</td>
+        <td markdown="span">Jian Sun<br/>(University of Chinese Academy of Sciences)</td>
         <td markdown="span"></td>
-    </tr> 
+    </tr>
     <tr >
         <td markdown="span">10:05am-10:15am</td>
         <td markdown="span">[One Shock, Many Disruptions: Firm Experience After India’s Demonetization](assets/pdfs/KDF_22_paper_5.pdf)</td>
@@ -78,25 +78,25 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">&nbsp;</td>
     </tr> 
     <tr bgcolor="#f7f1df">
-        <td markdown="span">10:50am-11:10pm</td>
+        <td markdown="span">10:50am-11:10am</td>
         <td markdown="span">break</td>
         <td markdown="span"></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">11:10am-11:20pm</td>
+        <td markdown="span">11:10am-11:20am</td>
         <td markdown="span">[A Closer Look to Your Business Network: Multitask Relation Extraction from Economic and Financial French Content](assets/pdfs/KDF_22_paper_10.pdf)</td>
         <td markdown="span">Hadjer Khaldi<br/>(IRIT - Toulouse)</td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">11:20pm-11:30pm</td>
+        <td markdown="span">11:20am-11:30am</td>
         <td markdown="span">[Dichotomic Pattern Mining with Applications to Intent Prediction from Semi-Structured Clickstream Datasets](assets/pdfs/KDF_22_paper_9.pdf)</td>
         <td markdown="span">Xin Wang<br/>(Fidelity Investments)</td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">11:30pm-11:40pm</td>
+        <td markdown="span">11:30am-11:40am</td>
         <td markdown="span">[Semi-Structured Query Grounding for Document-Oriented Databases with Deep Retrieval and Its Application to Receipt and POI Matching](assets/pdfs/KDF_22_paper_6.pdf)</td>
         <td markdown="span">Geewook Kim<br/>(Naver Corp)</td>
         <td markdown="span"></td>
