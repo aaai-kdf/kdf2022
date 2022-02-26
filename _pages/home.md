@@ -53,8 +53,8 @@ For registration, please use the [AAAI-22 registration website](https://aaai.org
         </tr>             
         <tr>
             <td>Workshop</td>
-            <td>TBD</td>
-            <td>TBD</td>
+            <td>Tue</td>
+            <td>March 1, 2022</td>
         </tr>   
     </tbody>
 </table>
